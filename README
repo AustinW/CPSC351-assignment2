@@ -1,0 +1,13 @@
+CPSC 351 Assignment 2
+
+Authors: Ryan Ott, Ben Hoelzel, Austin White (section 1)
+
+Programming language used: C++
+
+Execution:
+$ make
+$ ./receiver
+--- Separate window ---
+$ ./sender [FILE_NAME]
+
+Extra Credit: NO
